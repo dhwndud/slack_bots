@@ -1,1 +1,1 @@
-# slcak_bots
+# slack_bots
