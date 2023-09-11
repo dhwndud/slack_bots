@@ -1,3 +1,6 @@
+"""
+slack-alarm , 플랫폼팀 주간 업무 보고
+"""
 import requests
 import sys
 import json
